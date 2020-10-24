@@ -1,0 +1,78 @@
+Sat Oct 24 11:29:18 2020 --- Created 3 threads. Pool user's capacity: 10. Reseved amount of threads: 100
+Sat Oct 24 11:29:18 2020 --- Thread 6476 was added to queue
+Sat Oct 24 11:29:18 2020 --- Thread 7248 was added to queue
+Sat Oct 24 11:29:18 2020 --- Thread 15672 was added to queue
+Sat Oct 24 11:29:18 2020 --- New task was added
+Sat Oct 24 11:29:18 2020 --- in 0
+Sat Oct 24 11:29:18 2020 --- New task was added
+Sat Oct 24 11:29:18 2020 --- in 1
+Sat Oct 24 11:29:18 2020 --- New task was added
+Sat Oct 24 11:29:18 2020 --- in 2
+Sat Oct 24 11:29:18 2020 --- New task was added
+Sat Oct 24 11:29:18 2020 --- in 3
+Sat Oct 24 11:29:18 2020 --- New task was added
+Sat Oct 24 11:29:18 2020 --- in 4
+Sat Oct 24 11:29:18 2020 --- New task was added
+Sat Oct 24 11:29:18 2020 --- in 5
+Sat Oct 24 11:29:18 2020 --- New task was added
+Sat Oct 24 11:29:18 2020 --- in 6
+Sat Oct 24 11:29:18 2020 --- New task was added
+Sat Oct 24 11:29:18 2020 --- in 7
+Sat Oct 24 11:29:18 2020 --- New task was added
+Sat Oct 24 11:29:18 2020 --- in 8
+Sat Oct 24 11:29:19 2020 --- in 9
+Sat Oct 24 11:29:19 2020 --- New task was added
+Sat Oct 24 11:29:19 2020 --- New task was added
+Sat Oct 24 11:29:19 2020 --- in 10
+Sat Oct 24 11:29:19 2020 --- New task was added
+Sat Oct 24 11:29:19 2020 --- in 11
+Sat Oct 24 11:29:19 2020 --- New task was added
+Sat Oct 24 11:29:19 2020 --- Thread 1520 was added to queue
+Sat Oct 24 11:29:19 2020 --- New thread( 1520) was created cause no threads were available
+Sat Oct 24 11:29:19 2020 --- 12
+Sat Oct 24 11:29:19 2020 --- New task was added
+Sat Oct 24 11:29:19 2020 --- in 13
+Sat Oct 24 11:29:19 2020 --- New task was added
+Sat Oct 24 11:29:19 2020 --- in 14
+Sat Oct 24 11:29:19 2020 --- New task was added
+Sat Oct 24 11:29:19 2020 --- Thread 14520 was added to queue
+Sat Oct 24 11:29:19 2020 --- New thread( 14520) was created cause no threads were available
+Sat Oct 24 11:29:19 2020 --- 15
+Sat Oct 24 11:29:19 2020 --- New task was added
+Sat Oct 24 11:29:19 2020 --- in 16
+Sat Oct 24 11:29:19 2020 --- New task was added
+Sat Oct 24 11:29:19 2020 --- in 17
+Sat Oct 24 11:29:19 2020 --- New task was added
+Sat Oct 24 11:29:19 2020 --- Thread 852 was added to queue
+Sat Oct 24 11:29:19 2020 --- New thread( 852) was created cause no threads were available
+Sat Oct 24 11:29:19 2020 --- 18
+Sat Oct 24 11:29:20 2020 --- New task was added
+Sat Oct 24 11:29:20 2020 --- in 19
+Sat Oct 24 11:29:20 2020 --- New task was added
+Sat Oct 24 11:29:20 2020 --- in 20
+Sat Oct 24 11:29:20 2020 --- New task was added
+Sat Oct 24 11:29:20 2020 --- Thread 2244 was added to queue
+Sat Oct 24 11:29:20 2020 --- New thread( 2244) was created cause no threads were available
+Sat Oct 24 11:29:20 2020 --- 21
+Sat Oct 24 11:29:20 2020 --- New task was added
+Sat Oct 24 11:29:20 2020 --- in 22
+Sat Oct 24 11:29:20 2020 --- New task was added
+Sat Oct 24 11:29:20 2020 --- in 23
+Sat Oct 24 11:29:20 2020 --- New task was added
+Sat Oct 24 11:29:20 2020 --- in 24
+Sat Oct 24 11:29:20 2020 --- New task was added
+Sat Oct 24 11:29:20 2020 --- in 25
+Sat Oct 24 11:29:20 2020 --- New task was added
+Sat Oct 24 11:29:20 2020 --- Thread 4836 was added to queue
+Sat Oct 24 11:29:20 2020 --- New thread( 4836) was created cause no threads were available
+Sat Oct 24 11:29:20 2020 --- 26
+Sat Oct 24 11:29:20 2020 --- New task was added
+Sat Oct 24 11:29:20 2020 --- in 27
+Sat Oct 24 11:29:21 2020 --- New task was added
+Sat Oct 24 11:29:21 2020 --- Thread 4500 was added to queue
+Sat Oct 24 11:29:21 2020 --- New thread( 4500) was created cause no threads were available
+Sat Oct 24 11:29:21 2020 --- 28
+Sat Oct 24 11:29:21 2020 --- New task was added
+Sat Oct 24 11:29:21 2020 --- in 29
+Sat Oct 24 11:29:23 2020 --- 1748 0
+Sat Oct 24 11:29:27 2020 --- ThreadPool was destroyed

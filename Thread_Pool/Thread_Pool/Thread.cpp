@@ -1,0 +1,14 @@
+#include "Thread.h"
+
+Thread::Thread()
+{
+	alive = TRUE;
+	InitializeConditionVariable(&cnVariable);
+	bool isInit = InitializeCriticalSectionAndSpinCount(&crSection,2000);
+	taskForExecution = NULL;
+}
+
+Thread::~Thread()
+{
+	DeleteCriticalSection(&crSection);
+}
