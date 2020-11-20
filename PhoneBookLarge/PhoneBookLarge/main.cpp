@@ -51,7 +51,7 @@ std::wstring ExePath() {
 	TCHAR buffer[MAX_PATH] = { 0 };
 	GetModuleFileName(NULL, buffer, MAX_PATH);
 	std::wstring::size_type pos = std::wstring(buffer).find_last_of(L"\\/");
-	return std::wstring(buffer).substr(0, pos);
+	return std::wstring(buffer).substr(0, pos-6);
 }
 
 HWND CreateListView(HWND parent, int columns) {
@@ -183,7 +183,7 @@ LRESULT CALLBACK WndProc(_In_ HWND   hWnd, _In_ UINT   uMsg, _In_ WPARAM wParam,
 
 			Record r(&tel, &fname, &mname, &lname, &street, std::stoi(house), std::stoi(housing), std::stoi(flat));
 
-			std::list<Record*> recs = phoneBook.searchLong(ExePath() + std::wstring(L"\\text.txt"), &r, 1);
+			std::list<Record*> recs = phoneBook.searchLong(ExePath() + std::wstring(L"\\data.txt"), &r, 1);
 				
 			UpdateList(pSelf->hListView, recs);
 

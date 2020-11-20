@@ -4,6 +4,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 16.0.30523.141
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PhoneBookLarge", "PhoneBookLarge\PhoneBookLarge.vcxproj", "{836A7DB0-DA77-4514-AA6A-792A52E130DC}"
+	ProjectSection(ProjectDependencies) = postProject
+		{E2952CF1-1188-45B9-B167-87CEE9B05995} = {E2952CF1-1188-45B9-B167-87CEE9B05995}
+	EndProjectSection
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PhoneBookLib", "PhoneBookLib\PhoneBookLib.vcxproj", "{E2952CF1-1188-45B9-B167-87CEE9B05995}"
 EndProject
